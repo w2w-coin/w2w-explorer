@@ -7,12 +7,12 @@ var refreshDelay = 5000;
 // pools stats by MainCoins
 var networkStat = {
 	"W2W": [
-        ["w2wcoin.blockfoundry.org", "https://w2wcoin.blockfoundry.org/api"]
+        ["", ""]
 	]
 };
 var networkStat2 = {
     "W2W": [
-        ["w2wcoin.luckypool.io", "https://w2wcoin.luckypool.io/api"]
+        ["", ""]
  ]
 };
 
